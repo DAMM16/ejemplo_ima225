@@ -1,5 +1,5 @@
 # Hola mundo modificado
-print("Otro título\n")
+print("Lectura de credenciales:")
 
 with open("credenciales","r") as file:
     for linea in file:
