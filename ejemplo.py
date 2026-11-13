@@ -1,5 +1,6 @@
 # Hola mundo modificado
-print("Hola Mundo")
+print("Otro título\n")
+
 with open("credenciales","r") as file:
     for linea in file:
         print(linea.strip())
