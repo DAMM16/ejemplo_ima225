@@ -3,7 +3,7 @@
 Repositorio de *prueba* y **ejemplo** para el curso de IMA225. 
 
 ## Requerimientos
-Qué hay que tener instalado para poder usar el software. Incluye versión.
+Qué hay que tener instalado para poder usar el software. Incluye versión. MODIFICACION MAIN
 
 ## Instalación
 Descripción de cómo se instalación. Por ejemplo comandos
